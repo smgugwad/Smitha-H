@@ -1,1 +1,1 @@
-# Smitha-H
+This project is a Text based Calculator. It can perform basic operations like addition, subtraction, multiplication, division, square root & exponential power. After each operation, you can save the result in memory(SAVE), retreive saved results(MEM) & you can also print all the operations performed at any point(PRINT).
